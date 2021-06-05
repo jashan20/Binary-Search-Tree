@@ -5,3 +5,6 @@
 
 #3Given a Binary Search Tree (with all values unique) and two node values. Find the Lowest Common Ancestors of the two nodes in the BST.
 ![image](https://user-images.githubusercontent.com/85362997/120906520-c39a2880-c677-11eb-8e57-89e73d932c2c.png)
+
+#4 Given a Binary Search Tree and a range. Find all the numbers in the BST that lie in the given range.
+Note: Element greater than or equal to root go to the right side.
