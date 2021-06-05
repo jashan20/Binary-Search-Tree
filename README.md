@@ -1,12 +1,4 @@
 # Binary-Search-Tree
 
 #2 Given a Binary Search Tree and a node value X. Delete the node with the given value X from the BST. If no node with value x exists, then do not make any change. 
-Input:
-      2
-    /   \
-   1     3
-X = 12
-Output: 1 2 3
-Explanation: In the given input there
-is no node with value 12 , so the tree
-will remain same.
+![image](https://user-images.githubusercontent.com/85362997/120906301-e9bec900-c675-11eb-8077-5a7e957d1414.png)
